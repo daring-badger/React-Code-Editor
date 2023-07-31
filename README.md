@@ -1,4 +1,4 @@
-# Online Code Editor 
+# React Code Editor 
 Deployment: https://online-code-editor-react.vercel.app/
 
 ## Libraries used: codemirror & react-codemirror2
