@@ -10,4 +10,4 @@ Deployment: https://online-code-editor-react.vercel.app/
 
 ## Local Setup
 1. Run "npm install" to install required dependencies
-2. Run "npm start" to start the app on local server on port 3000
+2. Run "npm start" to start the app on local server on port 3000.
